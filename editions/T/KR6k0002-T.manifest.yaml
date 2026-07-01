@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6k0002/T/v1
+canonical_location: https://kanripo.org/bkk/KR6k0002/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 彌沙塞五分戒本
+  identifiers:
+    krp: KR6k0002
+    cbeta: T22n1422a
+    cbeta_old_id: T22n1422a
+    authorityid: CA0002197
+    json_key: T1422a
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T22/T22n1422a.xml
+    old_id: T22n1422a
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6k0002_000-T.yaml, hash: 'sha256:dcfe11b954e1aab92c2c620d018ee2fcb8d59d1d848fe06f28caf54304d23721'}
+  - {seq: 1, filename: KR6k0002_001-T.yaml, hash: 'sha256:d21f2ed788c9fe5b05a84bb3d206358ab8b3d311cf108b024e877802ba92a6a5'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6k0002_000-T.markers.yaml, hash: 'sha256:f65f44000b8d08ab7793a7f481f9621e9903d7c21c76ae70a24d5c19633f4761'}
+  - {seq: 1, role: markers, filename: assets/KR6k0002_001-T.markers.yaml, hash: 'sha256:af8d7cd0361e23509fbf886a8f4ece7e349d1abd6d2bedd52ed45594c57b0662'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6k0002_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 7825
+  label: 彌沙塞五分戒本一卷
+  type: juan
+  level: 1
+hash: sha256:c7b1b9a3fb199f88540628d1ecfeff1c1e7f44a29d5ad8c4164e640a085da8f3

@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6k0002/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 彌沙塞五分戒本
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T22/T22n1422a.xml
+    old_id: T22n1422a
+hash: sha256:dcfe11b954e1aab92c2c620d018ee2fcb8d59d1d848fe06f28caf54304d23721
