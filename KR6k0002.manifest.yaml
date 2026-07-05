@@ -25,9 +25,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6k0002_000.yaml, hash: 'sha256:dcfe11b954e1aab92c2c620d018ee2fcb8d59d1d848fe06f28caf54304d23721'}
-  - {seq: 1, filename: KR6k0002_001.yaml, hash: 'sha256:38e32d1e6a6739c71912346b5956c39ecdb3437ab705543abe9d4d64bca19c90'}
+  - {seq: 1, filename: KR6k0002_001.yaml, hash: 'sha256:d21f2ed788c9fe5b05a84bb3d206358ab8b3d311cf108b024e877802ba92a6a5'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6k0002_001.markers.yaml, hash: 'sha256:625082014a2b34f853f285fc76fe60d4e973f60596b62578e0d63be788efcabb'}
+  - {seq: 0, role: markers, filename: assets/KR6k0002_000.markers.yaml, hash: 'sha256:b0b6ed6c1ee35b0590d783a4f18c577fc8e3322bb591338ef8e6ea3b842418fa'}
+  - {seq: 1, role: markers, filename: assets/KR6k0002_001.markers.yaml, hash: 'sha256:99d328f3e8279d2c3ecdb45c5240d5f8b358512aac69207bf220525750c56a84'}
 table_of_contents:
 - ref:
     seq: 1
@@ -39,7 +40,4 @@ table_of_contents:
   label: 彌沙塞五分戒本一卷
   type: juan
   level: 1
-hash: sha256:ceb07245b9fedc38e4d3dd27dd40d929967efb59cf6cbbdc71dd0cde286c5f1a
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:8ed3c1c8133050a454dd6f772672c6225aef5a724c5e81cc028b14b584aaf324
